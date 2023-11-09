@@ -1,0 +1,14 @@
+h5py==3.1.0
+cython==0.29.24
+scipy==1.4.1
+imgaug==0.4.0
+opencv-python==4.5.4.60
+ipykernel==6.15.2
+keras-nightly==2.5.0.dev2021032900
+Keras-Preprocessing==1.1.2
+matplotlib==3.5.3
+numpy==1.19.5
+pandas==1.4.4
+scikit-image==0.16.2
+tensorflow==2.5.0
+tensorflow-estimator==2.5.0
